@@ -392,7 +392,11 @@ nav .right a span{
       padding: 0 20px;
     }
   .about-me{
-    padding: 020px;
+    padding: 0 20px;
+  }
+
+  .Photos{
+    padding: 0 20px;
   }
 }
 /* PHOTO GALLERY PAGE */
